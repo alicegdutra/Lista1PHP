@@ -37,8 +37,3 @@
     echo "O menor valor é $menor_valor no índice $i!";
 
     ?>
-    <p>
-    <form action="index3.php" method="post">
-        <button type="submit">Atividade 3</button>
-    </form>
-    </p>

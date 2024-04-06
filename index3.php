@@ -6,9 +6,12 @@
     <title>Exercícios</title>
 </head>
 <body>
-    <form action="exercicio1.php" method="post">
-        <label>Informe o valor: </label> <!--o formulário que envia as informações para a outra pasta -->
+    <form action="exercicio3.php" method="post">
+        <label>Informe o valor: </label>
         <input type="number" name="valor">
+        <button type="submit">Enviar</button>
+        <label>Informe o segundo valor: </label>
+        <input type="number" name="valor2">
         <button type="submit">Enviar</button>
     </form>
 </body>

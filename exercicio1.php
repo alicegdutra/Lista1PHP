@@ -7,3 +7,4 @@
         echo "Valor Negativo!";
     else
         echo "Valor igual a zero!";
+?>
