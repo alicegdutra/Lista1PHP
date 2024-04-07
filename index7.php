@@ -8,7 +8,7 @@
 <body>
     <form action="exercicio7.php" method="post">
         <label>Informe o valor em metros: </label>
-        <input type="number" name="valor">
+        <input type="text" name="valor">
         <button type="submit">Enviar</button>
     </form>
 </body>
